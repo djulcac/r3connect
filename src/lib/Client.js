@@ -28,8 +28,8 @@ export default makeLoggable(
     numberOfInvokes: number = 0
 
     static options: Object = {
-      connectTimeout: 5 * 1000,
-      invokeTimeout: 30 * 1000,
+      connectTimeout: 7 * 1000,
+      invokeTimeout: 35 * 1000,
     }
 
     // Needs to be required as it could throw an exception if it was not built correctly
