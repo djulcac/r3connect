@@ -1,8 +1,8 @@
 {
-  "name": "r3connect",
+  "name": "djulcac-r3connect",
   "version": "1.1.0",
-  "author": "Julian Hundeloh",
-  "email": "julian@hundeloh-consulting.ch",
+  "author": "Danny Julca",
+  "email": "djulcac@uni.pe",
   "license": "AGPL-3.0+",
   "description": "r3connect is a lean wrapper of node-rfc that provides comfortable access to SAP back-ends via a simple REST API.",
   "engines": {
